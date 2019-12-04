@@ -1,2 +1,0 @@
-# cameltrial
-camel trial
